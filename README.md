@@ -2,9 +2,9 @@
 ## New Lung Lesions in Low-dose CT: a newly annotated longitudinal dataset derived from the National Lung Screening Trial
 
 ### Introduction
-+ Please refer to the National Lung Screening Trial (NLST) Dataset available on the The Cancer Imaging Archive. [https://doi.org/10.7937/TCIA.HMQ8-J677]. 
++ Please refer to [The National Lung Screening Trial (NLST) Dataset](https://doi.org/10.7937/TCIA.HMQ8-J677) available on the The Cancer Imaging Archive.
 + This repository complements a dataset derived from NLST, titled NLST-New-lesion-LongCT. *New Lung Lesions in Low-dose CT: a newly annotated longitudinal dataset derived from the National Lung Screening Trial*
-+ Please cite both https://doi.org/10.7937/TCIA.HMQ8-J677 and [NLST-New-lesion-LongCT doi placeholder].
++ Please cite both TCIA datasets: [The National Lung Screening Trial (NLST)](https://doi.org/10.7937/TCIA.HMQ8-J677) and our derivative dataset [NLST-New-lesion-LongCT](placeholderurl).
 
 ### Download TCIA clinical and CT image datasets
 + Download Clinical Datasets as CSV https://www.cancerimagingarchive.net/collection/nlst/
