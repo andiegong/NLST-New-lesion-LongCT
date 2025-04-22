@@ -1,15 +1,8 @@
-""""
-ref /Users/Amanda/Dropbox/temp-server-copy/3d-patch-classifier/nlst/nlst.py
-"""
 import os
-
 import pandas as pd
 
 def applyselectioncriteria(datadircsv, csvout):
     """
-    Download Clinical data https://www.cancerimagingarchive.net/collection/nlst/ and save CSVs in a local directory, 'datadircsv'.
-    Data Dictionaries are available at: https://cdas.cancer.gov/datasets/nlst/ and https://www.cancerimagingarchive.net/collection/nlst/
-    
     Apply lesion selection criteria, as described in the Dataset description, section "Lesion Selection: Overview"
     
     Args:
